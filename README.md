@@ -48,7 +48,7 @@ kept unlike Postgres since it's faster than Supabase so sometimes is the better 
 ✅ [**SearXNG**](https://searxng.org/) - Open source, free internet metasearch engine which aggregates 
 results from up to 229 search services. Users are neither tracked nor profiled, hence the fit with the local AI package.
 
-✅ [**Caddy**](https://caddyserver.com/) - Managed HTTPS/TLS for custom domains
+✅ [**Caddy**](https://caddyserver.com/) - Managed HTTPS/TLS for custom domains (caddy removed handeled by plesk)
 
 ✅ [**Langfuse**](https://langfuse.com/) - Open source LLM engineering platform for agent observability
 
@@ -64,7 +64,7 @@ Before you begin, make sure you have the following software installed:
 
 Clone the repository and navigate to the project directory:
 ```bash
-git clone https://github.com/coleam00/local-ai-packaged.git
+git clone https://github.com/titanasatru/local-ai-packaged.git
 cd local-ai-packaged
 ```
 
